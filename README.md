@@ -46,7 +46,7 @@ I'm excited to share my journey as an AI & ML Intern with **InternPe**! Over the
 ---
 
 ### 🚗 2. **Car Price Prediction**  
-💡 **Objective:** Estimate the price of used cars based on features like mileage, age, and brand  
+💡 **Objective:** Estimate the price of used cars based on features like mileage, age, and brand, fule etc 
 🛠️ **Tools Used:** Scikit-learn, Pandas, Flask (for deployment)  
 ⚙️ **Execution:**  
 - Data collection & cleaning  
